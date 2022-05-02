@@ -1,0 +1,33 @@
+E:\School Files\CST-150\Hello World\Hello World\Hello World\bin\Debug\Hello World.exe.config
+E:\School Files\CST-150\Hello World\Hello World\Hello World\bin\Debug\Hello World.exe
+E:\School Files\CST-150\Hello World\Hello World\Hello World\bin\Debug\Hello World.pdb
+E:\School Files\CST-150\Hello World\Hello World\Hello World\obj\Debug\Hello World.csproj.AssemblyReference.cache
+E:\School Files\CST-150\Hello World\Hello World\Hello World\obj\Debug\Hello World.csproj.SuggestedBindingRedirects.cache
+E:\School Files\CST-150\Hello World\Hello World\Hello World\obj\Debug\Hello_World.Form1.resources
+E:\School Files\CST-150\Hello World\Hello World\Hello World\obj\Debug\Hello_World.Properties.Resources.resources
+E:\School Files\CST-150\Hello World\Hello World\Hello World\obj\Debug\Hello World.csproj.GenerateResource.cache
+E:\School Files\CST-150\Hello World\Hello World\Hello World\obj\Debug\Hello World.csproj.CoreCompileInputs.cache
+E:\School Files\CST-150\Hello World\Hello World\Hello World\obj\Debug\Hello World.exe
+E:\School Files\CST-150\Hello World\Hello World\Hello World\obj\Debug\Hello World.pdb
+E:\School Files\CST-150(C# I)\Hello World\Hello World\Hello World\bin\Debug\Hello World.exe.config
+E:\School Files\CST-150(C# I)\Hello World\Hello World\Hello World\bin\Debug\Hello World.exe
+E:\School Files\CST-150(C# I)\Hello World\Hello World\Hello World\bin\Debug\Hello World.pdb
+E:\School Files\CST-150(C# I)\Hello World\Hello World\Hello World\obj\Debug\Hello World.csproj.AssemblyReference.cache
+E:\School Files\CST-150(C# I)\Hello World\Hello World\Hello World\obj\Debug\Hello World.csproj.SuggestedBindingRedirects.cache
+E:\School Files\CST-150(C# I)\Hello World\Hello World\Hello World\obj\Debug\Hello_World.Form1.resources
+E:\School Files\CST-150(C# I)\Hello World\Hello World\Hello World\obj\Debug\Hello_World.Properties.Resources.resources
+E:\School Files\CST-150(C# I)\Hello World\Hello World\Hello World\obj\Debug\Hello World.csproj.GenerateResource.cache
+E:\School Files\CST-150(C# I)\Hello World\Hello World\Hello World\obj\Debug\Hello World.csproj.CoreCompileInputs.cache
+E:\School Files\CST-150(C# I)\Hello World\Hello World\Hello World\obj\Debug\Hello World.exe
+E:\School Files\CST-150(C# I)\Hello World\Hello World\Hello World\obj\Debug\Hello World.pdb
+E:\School Files\CST-150(C# I)\Week 2\Activity 3\Hello World\Hello World\bin\Debug\Hello World.exe.config
+E:\School Files\CST-150(C# I)\Week 2\Activity 3\Hello World\Hello World\bin\Debug\Hello World.exe
+E:\School Files\CST-150(C# I)\Week 2\Activity 3\Hello World\Hello World\bin\Debug\Hello World.pdb
+E:\School Files\CST-150(C# I)\Week 2\Activity 3\Hello World\Hello World\obj\Debug\Hello World.csproj.AssemblyReference.cache
+E:\School Files\CST-150(C# I)\Week 2\Activity 3\Hello World\Hello World\obj\Debug\Hello World.csproj.SuggestedBindingRedirects.cache
+E:\School Files\CST-150(C# I)\Week 2\Activity 3\Hello World\Hello World\obj\Debug\Hello_World.Form1.resources
+E:\School Files\CST-150(C# I)\Week 2\Activity 3\Hello World\Hello World\obj\Debug\Hello_World.Properties.Resources.resources
+E:\School Files\CST-150(C# I)\Week 2\Activity 3\Hello World\Hello World\obj\Debug\Hello World.csproj.GenerateResource.cache
+E:\School Files\CST-150(C# I)\Week 2\Activity 3\Hello World\Hello World\obj\Debug\Hello World.csproj.CoreCompileInputs.cache
+E:\School Files\CST-150(C# I)\Week 2\Activity 3\Hello World\Hello World\obj\Debug\Hello World.exe
+E:\School Files\CST-150(C# I)\Week 2\Activity 3\Hello World\Hello World\obj\Debug\Hello World.pdb
