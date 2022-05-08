@@ -1,0 +1,11 @@
+E:\School Files\CST-150(C# I)\Week 3\Activity 7\Activity 7\Activity 7\bin\Debug\Activity 7.exe.config
+E:\School Files\CST-150(C# I)\Week 3\Activity 7\Activity 7\Activity 7\bin\Debug\Activity 7.exe
+E:\School Files\CST-150(C# I)\Week 3\Activity 7\Activity 7\Activity 7\bin\Debug\Activity 7.pdb
+E:\School Files\CST-150(C# I)\Week 3\Activity 7\Activity 7\Activity 7\obj\Debug\Activity 7.csproj.AssemblyReference.cache
+E:\School Files\CST-150(C# I)\Week 3\Activity 7\Activity 7\Activity 7\obj\Debug\Activity 7.csproj.SuggestedBindingRedirects.cache
+E:\School Files\CST-150(C# I)\Week 3\Activity 7\Activity 7\Activity 7\obj\Debug\Activity_7.Form1.resources
+E:\School Files\CST-150(C# I)\Week 3\Activity 7\Activity 7\Activity 7\obj\Debug\Activity_7.Properties.Resources.resources
+E:\School Files\CST-150(C# I)\Week 3\Activity 7\Activity 7\Activity 7\obj\Debug\Activity 7.csproj.GenerateResource.cache
+E:\School Files\CST-150(C# I)\Week 3\Activity 7\Activity 7\Activity 7\obj\Debug\Activity 7.csproj.CoreCompileInputs.cache
+E:\School Files\CST-150(C# I)\Week 3\Activity 7\Activity 7\Activity 7\obj\Debug\Activity 7.exe
+E:\School Files\CST-150(C# I)\Week 3\Activity 7\Activity 7\Activity 7\obj\Debug\Activity 7.pdb
