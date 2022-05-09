@@ -1,6 +1,0 @@
-The words in lowercase are:
-write windows form application that uses file dialog control to allow the user select for input processing contents  file as follows
-The first word alphabetically is: allow 
-The last word alphabetically is: write 
-The longest word is: application 
-The word with the most vowels is: application 
