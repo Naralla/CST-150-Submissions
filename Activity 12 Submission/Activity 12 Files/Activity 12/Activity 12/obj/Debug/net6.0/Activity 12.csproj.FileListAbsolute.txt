@@ -1,0 +1,15 @@
+E:\School Files\CST-150(C# I)\Week 6\Activity 12\Activity 12 Files\Activity 12\Activity 12\bin\Debug\net6.0\Activity 12.exe
+E:\School Files\CST-150(C# I)\Week 6\Activity 12\Activity 12 Files\Activity 12\Activity 12\bin\Debug\net6.0\Activity 12.deps.json
+E:\School Files\CST-150(C# I)\Week 6\Activity 12\Activity 12 Files\Activity 12\Activity 12\bin\Debug\net6.0\Activity 12.runtimeconfig.json
+E:\School Files\CST-150(C# I)\Week 6\Activity 12\Activity 12 Files\Activity 12\Activity 12\bin\Debug\net6.0\Activity 12.dll
+E:\School Files\CST-150(C# I)\Week 6\Activity 12\Activity 12 Files\Activity 12\Activity 12\bin\Debug\net6.0\Activity 12.pdb
+E:\School Files\CST-150(C# I)\Week 6\Activity 12\Activity 12 Files\Activity 12\Activity 12\obj\Debug\net6.0\Activity 12.csproj.AssemblyReference.cache
+E:\School Files\CST-150(C# I)\Week 6\Activity 12\Activity 12 Files\Activity 12\Activity 12\obj\Debug\net6.0\Activity 12.GeneratedMSBuildEditorConfig.editorconfig
+E:\School Files\CST-150(C# I)\Week 6\Activity 12\Activity 12 Files\Activity 12\Activity 12\obj\Debug\net6.0\Activity 12.AssemblyInfoInputs.cache
+E:\School Files\CST-150(C# I)\Week 6\Activity 12\Activity 12 Files\Activity 12\Activity 12\obj\Debug\net6.0\Activity 12.AssemblyInfo.cs
+E:\School Files\CST-150(C# I)\Week 6\Activity 12\Activity 12 Files\Activity 12\Activity 12\obj\Debug\net6.0\Activity 12.csproj.CoreCompileInputs.cache
+E:\School Files\CST-150(C# I)\Week 6\Activity 12\Activity 12 Files\Activity 12\Activity 12\obj\Debug\net6.0\Activity 12.dll
+E:\School Files\CST-150(C# I)\Week 6\Activity 12\Activity 12 Files\Activity 12\Activity 12\obj\Debug\net6.0\refint\Activity 12.dll
+E:\School Files\CST-150(C# I)\Week 6\Activity 12\Activity 12 Files\Activity 12\Activity 12\obj\Debug\net6.0\Activity 12.pdb
+E:\School Files\CST-150(C# I)\Week 6\Activity 12\Activity 12 Files\Activity 12\Activity 12\obj\Debug\net6.0\Activity 12.genruntimeconfig.cache
+E:\School Files\CST-150(C# I)\Week 6\Activity 12\Activity 12 Files\Activity 12\Activity 12\obj\Debug\net6.0\ref\Activity 12.dll
