@@ -1,0 +1,11 @@
+E:\School Files\CST-150(C# I)\Week 6\Activity 14\Activity 14 Files\Activity 14\Activity 14\bin\Debug\Activity 14.exe.config
+E:\School Files\CST-150(C# I)\Week 6\Activity 14\Activity 14 Files\Activity 14\Activity 14\bin\Debug\Activity 14.exe
+E:\School Files\CST-150(C# I)\Week 6\Activity 14\Activity 14 Files\Activity 14\Activity 14\bin\Debug\Activity 14.pdb
+E:\School Files\CST-150(C# I)\Week 6\Activity 14\Activity 14 Files\Activity 14\Activity 14\obj\Debug\Activity 14.csproj.AssemblyReference.cache
+E:\School Files\CST-150(C# I)\Week 6\Activity 14\Activity 14 Files\Activity 14\Activity 14\obj\Debug\Activity 14.csproj.SuggestedBindingRedirects.cache
+E:\School Files\CST-150(C# I)\Week 6\Activity 14\Activity 14 Files\Activity 14\Activity 14\obj\Debug\Activity_14.Form1.resources
+E:\School Files\CST-150(C# I)\Week 6\Activity 14\Activity 14 Files\Activity 14\Activity 14\obj\Debug\Activity_14.Properties.Resources.resources
+E:\School Files\CST-150(C# I)\Week 6\Activity 14\Activity 14 Files\Activity 14\Activity 14\obj\Debug\Activity 14.csproj.GenerateResource.cache
+E:\School Files\CST-150(C# I)\Week 6\Activity 14\Activity 14 Files\Activity 14\Activity 14\obj\Debug\Activity 14.csproj.CoreCompileInputs.cache
+E:\School Files\CST-150(C# I)\Week 6\Activity 14\Activity 14 Files\Activity 14\Activity 14\obj\Debug\Activity 14.exe
+E:\School Files\CST-150(C# I)\Week 6\Activity 14\Activity 14 Files\Activity 14\Activity 14\obj\Debug\Activity 14.pdb
