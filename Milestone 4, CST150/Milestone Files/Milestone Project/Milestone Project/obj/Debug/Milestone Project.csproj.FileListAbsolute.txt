@@ -1,0 +1,34 @@
+E:\School Files\CST-150(C# I)\Milestone Project\Milestone Files\Milestone Project\Milestone Project\bin\Debug\Milestone Project.exe.config
+E:\School Files\CST-150(C# I)\Milestone Project\Milestone Files\Milestone Project\Milestone Project\bin\Debug\Milestone Project.exe
+E:\School Files\CST-150(C# I)\Milestone Project\Milestone Files\Milestone Project\Milestone Project\bin\Debug\Milestone Project.pdb
+E:\School Files\CST-150(C# I)\Milestone Project\Milestone Files\Milestone Project\Milestone Project\obj\Debug\Milestone Project.csproj.AssemblyReference.cache
+E:\School Files\CST-150(C# I)\Milestone Project\Milestone Files\Milestone Project\Milestone Project\obj\Debug\Milestone Project.csproj.SuggestedBindingRedirects.cache
+E:\School Files\CST-150(C# I)\Milestone Project\Milestone Files\Milestone Project\Milestone Project\obj\Debug\Milestone_Project.Properties.Resources.resources
+E:\School Files\CST-150(C# I)\Milestone Project\Milestone Files\Milestone Project\Milestone Project\obj\Debug\Milestone Project.csproj.GenerateResource.cache
+E:\School Files\CST-150(C# I)\Milestone Project\Milestone Files\Milestone Project\Milestone Project\obj\Debug\Milestone Project.csproj.CoreCompileInputs.cache
+E:\School Files\CST-150(C# I)\Milestone Project\Milestone Files\Milestone Project\Milestone Project\obj\Debug\Milestone Project.exe
+E:\School Files\CST-150(C# I)\Milestone Project\Milestone Files\Milestone Project\Milestone Project\obj\Debug\Milestone Project.pdb
+E:\School Files\CST-150(C# I)\Milestone Project\Milestone Files\Milestone Project\Milestone Project\obj\Debug\Milestone_Project.Form1.resources
+E:\School Files\CST-150(C# I)\Milestone 3, CST150\Milestone Files\Milestone Project\Milestone Project\obj\Debug\Milestone Project.csproj.AssemblyReference.cache
+E:\School Files\CST-150(C# I)\Milestone 3, CST150\Milestone Files\Milestone Project\Milestone Project\obj\Debug\Milestone Project.csproj.SuggestedBindingRedirects.cache
+E:\School Files\CST-150(C# I)\Milestone 3, CST150\Milestone Files\Milestone Project\Milestone Project\obj\Debug\Milestone_Project.Form1.resources
+E:\School Files\CST-150(C# I)\Milestone 3, CST150\Milestone Files\Milestone Project\Milestone Project\obj\Debug\Milestone_Project.Properties.Resources.resources
+E:\School Files\CST-150(C# I)\Milestone 3, CST150\Milestone Files\Milestone Project\Milestone Project\obj\Debug\Milestone Project.csproj.GenerateResource.cache
+E:\School Files\CST-150(C# I)\Milestone 3, CST150\Milestone Files\Milestone Project\Milestone Project\obj\Debug\Milestone Project.csproj.CoreCompileInputs.cache
+E:\School Files\CST-150(C# I)\Milestone 3, CST150\Milestone Files\Milestone Project\Milestone Project\obj\Debug\Milestone Project.exe
+E:\School Files\CST-150(C# I)\Milestone 3, CST150\Milestone Files\Milestone Project\Milestone Project\obj\Debug\Milestone Project.pdb
+E:\School Files\CST-150(C# I)\Milestone 3, CST150\Milestone Files\Milestone Project\Milestone Project\bin\Debug\Milestone Project.exe.config
+E:\School Files\CST-150(C# I)\Milestone 3, CST150\Milestone Files\Milestone Project\Milestone Project\bin\Debug\Milestone Project.exe
+E:\School Files\CST-150(C# I)\Milestone 3, CST150\Milestone Files\Milestone Project\Milestone Project\bin\Debug\Milestone Project.pdb
+E:\School Files\CST-150(C# I)\Milestone 4, CST150\Milestone Files\Milestone Project\Milestone Project\bin\Debug\Milestone Project.exe.config
+E:\School Files\CST-150(C# I)\Milestone 4, CST150\Milestone Files\Milestone Project\Milestone Project\bin\Debug\Milestone Project.exe
+E:\School Files\CST-150(C# I)\Milestone 4, CST150\Milestone Files\Milestone Project\Milestone Project\bin\Debug\Milestone Project.pdb
+E:\School Files\CST-150(C# I)\Milestone 4, CST150\Milestone Files\Milestone Project\Milestone Project\obj\Debug\Milestone Project.csproj.AssemblyReference.cache
+E:\School Files\CST-150(C# I)\Milestone 4, CST150\Milestone Files\Milestone Project\Milestone Project\obj\Debug\Milestone Project.csproj.SuggestedBindingRedirects.cache
+E:\School Files\CST-150(C# I)\Milestone 4, CST150\Milestone Files\Milestone Project\Milestone Project\obj\Debug\Milestone_Project.Form1.resources
+E:\School Files\CST-150(C# I)\Milestone 4, CST150\Milestone Files\Milestone Project\Milestone Project\obj\Debug\Milestone_Project.Properties.Resources.resources
+E:\School Files\CST-150(C# I)\Milestone 4, CST150\Milestone Files\Milestone Project\Milestone Project\obj\Debug\Milestone Project.csproj.GenerateResource.cache
+E:\School Files\CST-150(C# I)\Milestone 4, CST150\Milestone Files\Milestone Project\Milestone Project\obj\Debug\Milestone Project.csproj.CoreCompileInputs.cache
+E:\School Files\CST-150(C# I)\Milestone 4, CST150\Milestone Files\Milestone Project\Milestone Project\obj\Debug\Milestone Project.exe
+E:\School Files\CST-150(C# I)\Milestone 4, CST150\Milestone Files\Milestone Project\Milestone Project\obj\Debug\Milestone Project.pdb
+E:\School Files\CST-150(C# I)\Milestone 4, CST150\Milestone Files\Milestone Project\Milestone Project\obj\Debug\Milestone_Project.Form2.resources
